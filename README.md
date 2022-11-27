@@ -1,2 +1,3 @@
 # repozytorium-testowe-gh
-Repozytorium testowe.
+
+Testowy tekst do ćwiczenia komitów.
