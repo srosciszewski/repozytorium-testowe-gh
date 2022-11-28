@@ -1,3 +1,3 @@
 # repozytorium-testowe-gh
 
-Testowy tekst do ćwiczenia komitów.
+Testowy tekst do ćwiczenia commitów!
